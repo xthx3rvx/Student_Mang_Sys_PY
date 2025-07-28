@@ -38,7 +38,8 @@ Result – Manages student marks and grade with encapsulated access.
 
 generateReport() – Generates reports for students.
 
-🧪 Sample Output (from main block)
+🧪 Sample Output
+
 Departments and Courses:
 Science Courses: Physics, Chemistry, Biology
 Commerce Courses: Accountancy, Economics, Business Studies
